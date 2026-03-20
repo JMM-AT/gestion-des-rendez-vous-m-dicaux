@@ -4,6 +4,11 @@
 
 ---
 
+## 🚀 Demo en ligne
+
+[https://gestion-des-rendez-vous-m-dicaux-production.up.railway.app](https://gestion-des-rendez-vous-m-dicaux-production.up.railway.app)
+
+---
 ## Description du Projet
 
 Ce projet est une plateforme web moderne conçue pour simplifier la prise de rendez-vous médicaux et la gestion des patients. Développée dans le cadre d'un **Projet de Fin d'Études (PFE)**, elle offre une interface intuitive et des fonctionnalités complètes pour les patients, les médecins et l'administration.
